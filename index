@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/reset.css">
+</head>
+<body>
+    <div class="header">
+        <div class="container">
+            <div class="logo">
+                <div class="findme">
+                <img src="http://mw8.ru/sites/easySite/hw11/img/logo.png" alt="">
+                <h1>Экстремальное восхождение</h1>
+                <p>Безопасное пребывание в экстремальных условиях и восхождение на вершину</p>
+                <div class="button">
+                <div class="text1">Подробнее</div><div class="text2">Записаться</div>
+                
+
+                <ul>
+                    <li><a href=""><img src="http://mw8.ru/sites/easySite/hw11/img/facebook.png" alt=""></a></li>
+                    <li><a href=""><img src="http://mw8.ru/sites/easySite/hw11/img/twitter.png" alt=""></a></li>
+                    <li><a href=""><img src="http://mw8.ru/sites/easySite/hw11/img/vk.png" alt=""></a></li>
+                    <li><a href=""><img src="http://mw8.ru/sites/easySite/hw11/img/google-plus.png" alt=""></a></li>
+                </ul>
+                 </div>
+             </div>
+            </div>
+        </div>
+    </div>
+    
+</body>
+</html>
